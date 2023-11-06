@@ -1,5 +1,5 @@
 # ShockShockersDining
 ShockShockers dining hall experience that feels like a personal nutritionist.
-
+The ShockShockers dining project, spearheaded by myself, revolutionizes the dining experience into a personalized nutritionist at your fingertips. Amidst the hustle and bustle of student life, making balanced meal choices can be daunting. This innovative solution transcends traditional dining, integrating AI technology seamlessly, presenting its own set of challenges. Under my visionary leadership, the team embarked on a journey to turn it into a culinary virtuoso. Whether you're a dedicated vegan or health-conscious omnivore, ShockShockers dining crafts personalized meal plans tailored to your unique needs. It's not just an application; it's a culinary confidant, a trusted advisor in the pursuit of a balanced diet. Beyond the code, this project is a testament to teamwork, innovation, and my leadership in shaping a healthier, more mindful dining experience for all.
 
 ![image](https://github.com/mustafajamis/ShockShockersDining/assets/39936262/d78212da-bcce-4ed9-9274-428639f610b5)
